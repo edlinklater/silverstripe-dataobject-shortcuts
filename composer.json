@@ -1,0 +1,18 @@
+{
+    "name": "rentaswag/silverstripe-dataobject-shortcuts",
+    "description": "Django-esque shortcuts for getting a SilverStripe DataObject or 404ing if it doesn't exist",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/framework": "~3.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ed Linklater",
+            "email": "ed@silverstripe.com"
+        }
+    ],
+    "extra": {
+        "installer-name": "dataobject-shortcuts"
+    }
+}
